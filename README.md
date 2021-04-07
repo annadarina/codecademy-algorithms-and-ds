@@ -1,3 +1,2 @@
-# Pass the Technical Interview with JavaScript
-This repo includes exercises and code snippets from Codecademy PRO Pass The Technical Interview With JavaScript 
-Skill Path
+# Technical Interview Practice with JS
+This repo includes exercises and code snippets from [Codecademy PRO](https://www.codecademy.com/learn/technical-interview-practice-with-javascript)
