@@ -4,7 +4,6 @@ const LinkedList = require('./LinkedList.js');
  * Time complexity: O(n)
  * Space complexity: O(1)
  */
-
 function swapNodes(list, data1, data2) {
   console.log(`Swapping ${data1} and ${data2}:`);
 
