@@ -4,7 +4,7 @@ const LinkedList = require('./LinkedList');
  * Time complexity: O(n)
  * Space complexity: O(1)
  */
-const nthLastNode = ( linkedList, n) => {
+const nthLastNode = (linkedList, n) => {
   let current = null;
   let tailPointer = linkedList.head;
   let count = 0;
@@ -18,7 +18,7 @@ const nthLastNode = ( linkedList, n) => {
 
       current = current.next;
     }
-    count++
+    count++;
   }
 
   return current;
